@@ -1,0 +1,5 @@
+Tiny XSBT plugin which adds pause functionality.
+
+resolvers += "Element Releases"  at "http://maven.element.hr/nexus/content/repositories/releases/"
+
+addSbtPlugin("hr.element.xsbt" % "xsbt-pause" % "0.0.1") 
